@@ -1,3 +1,3 @@
 # Digital-Piano
-<h3>You can view my projects here<h3>
-<a href="https://sandradigitalpiano.netlify.app/">Digtal-Piano</a>
+<p>You can view my project here<p>
+<a href="https://sandradigitalpiano.netlify.app/">Digital-Piano</a>
